@@ -1,5 +1,6 @@
 <?php 
-  "Olaaaa   Mundãoooooo";
- 
+ echo "Olaaaa   Mundãoooooo";
+
+echo "HCode"; 
  
 ?>
